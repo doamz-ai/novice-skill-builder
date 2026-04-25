@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Quality Skills"
+  short_description: "Turn novice workflow needs into high-quality Codex skill drafts."
+  default_prompt: "Use $write-quality-skills to turn my plain-language workflow need into a high-quality Codex skill draft."
