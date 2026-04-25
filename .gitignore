@@ -1,0 +1,16 @@
+.env
+.baoyu-skills/.env
+__pycache__/
+*.pyc
+.cache/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Local research/download artifacts that should not be published here
+source/
+analysis/
+report/
+*.zip
+commit-main.json
+provenance.json
